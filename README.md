@@ -6,7 +6,7 @@
 2. Use scraped data to give attributes to Ruby objects.
 3. Write an object oriented Scraper class.
 
-## Overview
+## Overfview
 
 One of the most common use-cases for web scraping involves you, the programmer, scraping data that you will then use to instantiate your own Ruby objects. In this lab, we'll be scraping a static site that displays the course offerings of the Flatiron School. We'll be taking the scraped data to create our own `Course` objects. Each instance of the `Course` class will have a series of attributes. The values of each of these attributes will be scraped from the website.
 
